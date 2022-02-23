@@ -21,6 +21,17 @@ Raising speed limits increases the number of casualties, but a slight look into 
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_speed.png?raw=true)
 
-It will be interesting to know if cars on high speed caused more fatal accidents than those on low speed. The resulting image below shows that, 30km/hr speed led to more fatal accident than other speed limits.
+It will be interesting to know if cars on high speed caused more fatal accidents than those on low speed. The resulting image below shows that, 30km/hr speed led to more serious accident than other speed limits.
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_on_severity.png?raw=true)
+
+However, it was observed that 75% of the accident occurred as a result of the single carriageway(a road with one, two or more lanes arranged within a one carriageway with no central reservation to separate opposing flows of traffic) which led to more casualties. This could been an head-on collision with the vehicle coming in the opposite direction. The graph below validates the fact
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_on_severity.png?raw=true)
+
+Today most accidents occur at junctions. Analysis on the uk road accidents - 2015, revealed that junction details contributed to the massive number of accidents and casualties. 60% of the accidents occured at junctions and this led to more casualties.
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualites_by_junction_details.png?raw=true)
+
+
+
