@@ -21,6 +21,29 @@ Raising speed limits increases the number of casualties, but a slight look into 
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_speed.png?raw=true)
 
-It will be interesting to know if cars on high speed caused more fatal accidents than those on low speed. The resulting image below shows that, 30km/hr speed led to more fatal accident than other speed limits.
+It will be interesting to know if cars on high speed caused more fatal accidents than those on low speed. The resulting image below shows that, 30km/hr speed led to more serious accident than other speed limits.
 
-![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_limit_on_severity.png?raw=true)
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_on_severity.png?raw=true)
+
+However, it was observed that 75% of the accident occurred as a result of the single carriageway(a road with one, two or more lanes arranged within a one carriageway with no central reservation to separate opposing flows of traffic) which led to more casualties. This could been an head-on collision with the vehicle coming in the opposite direction. The graph below validates the fact
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_road_type.png?casualties_by_road_type.pngraw=true)
+
+Today most accidents occur at junctions. Analysis on the uk road accidents - 2015, revealed that junction details contributed to the massive number of accidents and casualties. 60% of the accidents occured at junctions and this led to more casualties.
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualites_by_junction_details.png?raw=true)
+
+Considering the conditions of the road surface, we could deduce that 72.5% of the accidents on UK, 2015, occurred on a Dry road while Wet, damp, Frost, ice and other factors contributed to 27.5%. This shows that road surface condition isn't the major cause of road accidents in UK, 2015
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/accident_by_surface_condition.png?raw=true)
+
+The fact is that bad weather significantly increases the chance of a car accident. Conditions such as fog, rain, sleet, snow, and ice not only hamper visibility but it can also affect the performance of your vehicle. But this wasn't the case regarding the Uk road accidents data. Majority of the accidents occured on a Good weather condition. If we are to see the relationship between weather condition and accident severity, we'd see that weather conditions is not directly proportionl to the degree of fatality and number of casualties. Could there be other factors that played in ?
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/analysis_on_weather_condition.png?raw=true)
+![download](https://user-images.githubusercontent.com/67028610/155322949-f6324b98-3de8-409a-9939-3250b424c753.png)
+
+
+Urban areas tend to have more car accidents than rural areas due to the greater number of motor vehicles, pedestrians, and bicyclists on the road which leads to more casualties. However, an appreciable  number of casualties occured in rural areas
+
+![download](https://user-images.githubusercontent.com/67028610/155323447-d0b74ea4-77d9-45ea-8766-5425bb5d3e3c.png)
+
