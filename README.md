@@ -35,8 +35,7 @@ Today most accidents occur at junctions. Analysis on the uk road accidents - 201
 
 Considering the conditions of the road surface, we could deduce that 72.5% of the accidents on UK, 2015, occurred on a Dry road while Wet, damp, Frost, ice and other factors contributed to 27.5%. This shows that road surface condition isn't the major cause of road accidents in UK, 2015
 
-![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_on_severity.png?raw=true)
-?raw=true)
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/accident_by_surface_condition.png?raw=true)
 
 
 
