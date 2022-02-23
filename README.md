@@ -54,7 +54,10 @@ On checking the effectiveness of the Police officers, it is seen that police off
 
 ![download](https://user-images.githubusercontent.com/67028610/155324063-ba8578b0-938c-4ce5-ad95-872953c4c97a.png)
 
-Putting into consideration the time and day each accident occur, this heatmap plot was generated. From the image it's obvious that more accidents occured on working days - MONDAYS - FRIDAYS, and this was during the rush hours 8am and 5pm, 6pm
+Putting into consideration the time and day each accident occur, this heatmap plot was generated. From the image it's obvious that more accidents occured on working days - MONDAYS - FRIDAYS, and this was during the rush hours 8am and 5pm, 6pm. This is shown below:
+
+
+![download](https://user-images.githubusercontent.com/67028610/155330390-83ec082b-a956-492d-b483-3b864447ae36.png)
 
 ## Summary:
 The major key factor that caused majority of accidents on Uk, 2015 was as a result of single carriageway road type. Perhaps most the rate of this accident would have reduced if dual carriageway was provided.
