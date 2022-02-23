@@ -27,7 +27,7 @@ It will be interesting to know if cars on high speed caused more fatal accidents
 
 However, it was observed that 75% of the accident occurred as a result of the single carriageway(a road with one, two or more lanes arranged within a one carriageway with no central reservation to separate opposing flows of traffic) which led to more casualties. This could been an head-on collision with the vehicle coming in the opposite direction. The graph below validates the fact
 
-![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_on_severity.png?raw=true)
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_road_type.png?casualties_by_road_type.pngraw=true)
 
 Today most accidents occur at junctions. Analysis on the uk road accidents - 2015, revealed that junction details contributed to the massive number of accidents and casualties. 60% of the accidents occured at junctions and this led to more casualties.
 
