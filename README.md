@@ -1,6 +1,8 @@
 # CatBoost-Road-Accident-2015
 A data science collaborative project on Road accidents in UK, 2015  - CatBoost Team
 
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/road_accident_image.jpg?raw=true)
+
 ## Problem statement: 
 A safe road system aims to eliminate fatal and serious injuries for all road users. It does so through a holistic view of the road system that first anticipates human mistakes and second keeps impact energy on the human body at tolerable levels. Safety is imperative of the designers and owners of the transportation system.
 
@@ -14,3 +16,11 @@ This inefficiency of the United Kingdom road safety system is clearly seen in 20
 
 The aim of this project is to understand the major factors that contributed to road accidents in UK. One needs to know when, where, and why they happen.
 
+## Exploratory Data Analysis:
+Raising speed limits increases the number of casualties, but a slight look into the data shows that Low Speed limit of 30km/hr resulted in more casualties as against vehicles on high speed as shown below:
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_speed.png?raw=true)
+
+It will be interesting to know if cars on high speed caused more fatal accidents than those on low speed. The resulting image below shows that, 30km/hr speed led to more fatal accident than other speed limits.
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_speed.png?raw=true)
