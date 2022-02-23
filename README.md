@@ -6,7 +6,12 @@ A data science collaborative project on Road accidents in UK, 2015  - CatBoost T
 ## Problem statement: 
 A safe road system aims to eliminate fatal and serious injuries for all road users. It does so through a holistic view of the road system that first anticipates human mistakes and second keeps impact energy on the human body at tolerable levels. Safety is imperative of the designers and owners of the transportation system.
 
-Making a commitment to zero deaths means addressing every aspect of accident risks through five elements which include safe road users, safe vehicles, safe speeds, safe roads, post-crash care.
+Making a commitment to zero deaths means addressing every aspect of accident risks through five elements which include:
+*safe road users
+*safe vehicles
+*safe speeds
+*safe roads
+*weather conditions
 
 The key focus of a safe system is to reduce death and serious injuries through design that accommodates human mistakes and injury tolerance.
 
