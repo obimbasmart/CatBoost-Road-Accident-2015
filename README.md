@@ -37,6 +37,11 @@ Considering the conditions of the road surface, we could deduce that 72.5% of th
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/accident_by_surface_condition.png?raw=true)
 
+The fact is that bad weather significantly increases the chance of a car accident. Conditions such as fog, rain, sleet, snow, and ice not only hamper visibility but it can also affect the performance of your vehicle. But this wasn't the case regarding the Uk road accidents data. Majority of the accidents occured on a Good weather condition. If we are to see the relationship between weather condition and accident severity, we'd see that weather conditions is not directly proportionl to the degree of fatality and number of casualties. Could there be other factors that played in ?
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/analysis_on_weather_condition.png?raw=true)
+![download](https://user-images.githubusercontent.com/67028610/155322949-f6324b98-3de8-409a-9939-3250b424c753.png)
+
 
 
 
