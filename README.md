@@ -43,6 +43,7 @@ The fact is that bad weather significantly increases the chance of a car acciden
 ![download](https://user-images.githubusercontent.com/67028610/155322949-f6324b98-3de8-409a-9939-3250b424c753.png)
 
 
+Urban areas tend to have more car accidents than rural areas due to the greater number of motor vehicles, pedestrians, and bicyclists on the road which leads to more casualties. However, an appreciable  number of casualties occured in rural areas
 
-
+![download](https://user-images.githubusercontent.com/67028610/155323447-d0b74ea4-77d9-45ea-8766-5425bb5d3e3c.png)
 
