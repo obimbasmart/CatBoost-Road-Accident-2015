@@ -23,4 +23,4 @@ Raising speed limits increases the number of casualties, but a slight look into 
 
 It will be interesting to know if cars on high speed caused more fatal accidents than those on low speed. The resulting image below shows that, 30km/hr speed led to more fatal accident than other speed limits.
 
-![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_speed.png?raw=true)
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_limit_on_severity.png?raw=true)
