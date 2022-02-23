@@ -21,11 +21,11 @@ Raising speed limits increases the number of casualties, but a slight look into 
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_speed.png?raw=true)
 
-It will be interesting to know if cars on high speed caused more fatal accidents than those on low speed. The resulting image below shows that, 30km/hr speed led to more serious accident than other speed limits.
+It will be insightful if you take a look below at the graphical representation, you will notice the sharp difference between accidents caused by low speed vehicles as against high speed vehicles which shows clearly that vehicles moving at a speed of 30km/h resulted in more accidents.
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/speed_on_severity.png?raw=true)
 
-However, it was observed that 75% of the accident occurred as a result of the single carriageway(a road with one, two or more lanes arranged within a one carriageway with no central reservation to separate opposing flows of traffic) which led to more casualties. This could been an head-on collision with the vehicle coming in the opposite direction. The graph below validates the fact
+Further research revealed that about 75% of the accidents resulted  from the fact that the roads where singe carriage roads ( a road with vehicles moving in opposite directions without any form of barriers to divide the opposite incoming vehicle ), as a result led to the spike in accidents, which ranges from full head on collision to near miss brush between opposing vehicles.
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_road_type.png?casualties_by_road_type.pngraw=true)
 
