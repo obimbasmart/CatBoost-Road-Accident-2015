@@ -42,8 +42,18 @@ The fact is that bad weather significantly increases the chance of a car acciden
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/analysis_on_weather_condition.png?raw=true)
 ![download](https://user-images.githubusercontent.com/67028610/155322949-f6324b98-3de8-409a-9939-3250b424c753.png)
 
+Light conditions are known to affect the number of vehicle accidents and fatalities but the relationship between light conditions and accident severity is not fully understood as more accidents occured during the day and most were slight
+
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/light_conditions.png?raw=true)
 
 Urban areas tend to have more car accidents than rural areas due to the greater number of motor vehicles, pedestrians, and bicyclists on the road which leads to more casualties. However, an appreciable  number of casualties occured in rural areas
 
 ![download](https://user-images.githubusercontent.com/67028610/155323447-d0b74ea4-77d9-45ea-8766-5425bb5d3e3c.png)
+
+On checking the effectiveness of the Police officers, it is seen that police officer visited the scene more. This denote an activeness to rescue by the police force in the UK
+
+![download](https://user-images.githubusercontent.com/67028610/155324063-ba8578b0-938c-4ce5-ad95-872953c4c97a.png)
+
+## Summary:
+
 
