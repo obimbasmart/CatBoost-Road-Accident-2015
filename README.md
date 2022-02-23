@@ -1,7 +1,7 @@
 # CatBoost-Road-Accident-2015
 A data science collaborative project on Road accidents in UK, 2015  - CatBoost Team
 
-road_accident_image.jpg
+![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/road_accident_image.jpg?raw=true)
 
 ## Problem statement: 
 A safe road system aims to eliminate fatal and serious injuries for all road users. It does so through a holistic view of the road system that first anticipates human mistakes and second keeps impact energy on the human body at tolerable levels. Safety is imperative of the designers and owners of the transportation system.
