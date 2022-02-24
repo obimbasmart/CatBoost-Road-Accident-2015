@@ -17,9 +17,9 @@ Key Areas:-‎
 
 Focusing on a safe system that is to reduce death and serious injuries through design that ‎accommodates or gives ample tolerance for human errors and injury.‎
 Based on our analysis on the data the United Kingdom road safety deviates from the ideal safe ‎road system by not tackling these 5 key areas, which has resulted in the increased number of ‎accidents in the UK roads as indicated by these statistics gotten from the data ‎2015 Statistics On Accidents:-‎
-•	‎140,056 Accidents‎
-•	‎180,000 Persons affected (Ranging from Fatal to Slight Injuries)‎
-•	‎15,000 Casualties Monthly
+*	‎140,056 Accidents‎
+*	‎180,000 Persons affected (Ranging from Fatal to Slight Injuries)‎
+*	‎15,000 Casualties Monthly
 
 Our project not only aims to understand how these 5 keys areas contributed to the increase of ‎these accidents, but also determine the locations and time to enable us proffer viable solutions to ‎the problem. ‎
 
