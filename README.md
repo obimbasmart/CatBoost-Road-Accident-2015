@@ -4,22 +4,26 @@ A data science collaborative project on Road accidents in UK, 2015  - CatBoost T
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/road_accident_image.jpg?raw=true)
 
 ## Problem statement: 
-A safe road system aims to eliminate fatal and serious injuries for all road users. It does so through a holistic view of the road system that first anticipates human mistakes and second keeps impact energy on the human body at tolerable levels. Safety is imperative of the designers and owners of the transportation system.
+Accidents have a holistic impact in every society we find ourselves today, hence the need of for continuous ‎improvement of every system that contributes to accidents in our society today.‎
+In this study we aim to focus our research or study on the UK. We got the UK_Accident_2015 Data for this ‎purpose. ‎
+We aim for a safe road system, which implies a system designed to drastically reduce or eliminate fatal ‎accidents or reduction of injuries on the UK roads.‎
+To achieve this, we focused our research on these key areas from the data acquired from the UK Accidents ‎in 2015.‎
+Key Areas:-‎
+* Safe road users
+* Safe vehicles
+* Safe speeds
+* Safe road design
+* Weather conditions
 
-Making a commitment to zero deaths means addressing every aspect of accident risks through five elements which include:
-* safe road users
-* safe vehicles
-* safe speeds
-* safe roads
-* weather conditions
+Focusing on a safe system that is to reduce death and serious injuries through design that ‎accommodates or gives ample tolerance for human errors and injury.‎
+Based on our analysis on the data the United Kingdom road safety deviates from the ideal safe ‎road system by not tackling these 5 key areas, which has resulted in the increased number of ‎accidents in the UK roads as indicated by these statistics gotten from the data ‎2015 Statistics On Accidents:-‎
+•	‎140,056 Accidents‎
+•	‎180,000 Persons affected (Ranging from Fatal to Slight Injuries)‎
+•	‎15,000 Casualties Monthly
 
-The key focus of a safe system is to reduce death and serious injuries through design that accommodates human mistakes and injury tolerance.
-
-However, the United Kingdom road safety deviates from the ideal safe road system. By less consideration of the five elements, UK records high number of accident cases which cause serious injuries on road users.
+Our project not only aims to understand how these 5 keys areas contributed to the increase of ‎these accidents, but also determine the locations and time to enable us proffer viable solutions to ‎the problem. ‎
 
 This inefficiency of the United Kingdom road safety system is clearly seen in 2015 where there was a total of 140,056 accident cases affecting over 180,000 persons with slight to fatal injuries. This means that on an average there was 15,000 casualties in a month. This claim is based on the UK_Traffic_Accidents_2015.csv data.
-
-The aim of this project is to understand the major factors that contributed to road accidents in UK. One needs to know when, where, and why they happen.
 
 ## Exploratory Data Analysis:
 Raising speed limits increases the number of casualties, but a slight look into the data shows that Low Speed limit of 30km/hr resulted in more casualties as against vehicles on high speed as shown below:
