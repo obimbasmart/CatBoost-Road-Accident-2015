@@ -34,7 +34,7 @@ Further research revealed that about 75% of the accidents resulted  from the fac
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualties_by_road_type.png?casualties_by_road_type.pngraw=true)
 
-Today most accidents occur at junctions. Analysis on the uk road accidents - 2015, revealed that junction details contributed to the massive number of accidents and casualties. 60% of the accidents occured at junctions and this led to more casualties.
+Analysis based on the data provided by the Uk for Road Accidents and Casualties for 2015, it revealed that the poor design/ structural construction contributed to the rise in accident rate as over 60% of the accidents occurred mostly at junction points.
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/casualites_by_junction_details.png?raw=true)
 
