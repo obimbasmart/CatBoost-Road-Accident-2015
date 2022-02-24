@@ -51,7 +51,7 @@ Light conditions are known to affect the number of vehicle accidents and fatalit
 
 ![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/light_conditions.png?raw=true)
 
-Urban areas tend to have more car accidents than rural areas due to the greater number of motor vehicles, pedestrians, and bicyclists on the road which leads to more casualties. However, an appreciable  number of casualties occured in rural areas
+Due to high traffic of vehicles, pedestrian's and cyclist  in Urban areas than rural areas, accident tends to occur in this area as a result, but based on the analysis from the UK accident data it was discovered that there was a reasonable increase in accidents in the rural areas.
 
 ![download](https://user-images.githubusercontent.com/67028610/155323447-d0b74ea4-77d9-45ea-8766-5425bb5d3e3c.png)
 
@@ -59,7 +59,7 @@ On checking the effectiveness of the Police officers, it is seen that police off
 
 ![download](https://user-images.githubusercontent.com/67028610/155324063-ba8578b0-938c-4ce5-ad95-872953c4c97a.png)
 
-Putting into consideration the time and day each accident occur, this heatmap plot was generated. From the image it's obvious that more accidents occured on working days - MONDAYS - FRIDAYS, and this was during the rush hours 8am and 5pm, 6pm. This is shown below:
+Taking factors like Day and Time of accidents into consideration, a heatmap was plotted which clearly places significant number of accidents on week days (Mondays - Fridays) during rush hours, which occurs around 8AM, 5PM and 6pm as shown in the heatmap below
 
 
 ![download](https://user-images.githubusercontent.com/67028610/155330390-83ec082b-a956-492d-b483-3b864447ae36.png)
