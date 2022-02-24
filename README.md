@@ -23,8 +23,6 @@ Based on our analysis on the data the United Kingdom road safety deviates from t
 
 Our project not only aims to understand how these 5 keys areas contributed to the increase of ‎these accidents, but also determine the locations and time to enable us proffer viable solutions to ‎the problem. ‎
 
-This inefficiency of the United Kingdom road safety system is clearly seen in 2015 where there was a total of 140,056 accident cases affecting over 180,000 persons with slight to fatal injuries. This means that on an average there was 15,000 casualties in a month. This claim is based on the UK_Traffic_Accidents_2015.csv data.
-
 ## Exploratory Data Analysis:
 Raising speed limits increases the number of casualties, but a slight look into the data shows that Low Speed limit of 30km/hr resulted in more casualties as against vehicles on high speed as shown below:
 
