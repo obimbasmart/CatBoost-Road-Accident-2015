@@ -65,7 +65,9 @@ Putting into consideration the time and day each accident occur, this heatmap pl
 ![download](https://user-images.githubusercontent.com/67028610/155330390-83ec082b-a956-492d-b483-3b864447ae36.png)
 
 ## Summary:
-The major key factor that caused majority of accidents on Uk, 2015 was as a result of single carriageway road type. Perhaps most the rate of this accident would have reduced if dual carriageway was provided.
+Based on our expert analysis from the UK Accident Data 2015, we can say with 85% surety that a major factor that contributed to accidents in the UK was as a result of poor design and construction of the roads ( Singe Carriage Lanes ).
 
-Majority of the accidents occured without any physical crossing facilities within 50 meters and in day light, when there were no high winds and the roads were dry. So most natural factors weren't the causes of majority of this accidents but instead we can say that the single carriage ways had a huge part to play
+There was no physical barriers preventing opposing vehicles from head on collusion or contact. Natural phenomenon didn't play a major role in accidents like weather, poor lighting  condition/poor visibility, etc.
+
+So it is safe to conclude that most of these accidents would be preventable if the design of the roads will be revised and barriers put in place to curb the accident trends on the UK roads. 
 
