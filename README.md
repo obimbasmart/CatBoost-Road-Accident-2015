@@ -33,7 +33,7 @@ Our project not only aims to understand how these 5 keys areas contributed to th
 
 - At first glance its easy to attribute most of the accidents, to conditions that are present on the road surface, like wet, damp, frosty or iced surfaces but insight from the data shows that 72.5% of accidents occurred on Dry road surface. While other surface conditions amounted to just 27.5%. This reveals that road surface condition's isn't really the major cause of road accidents in the UK in 2015.
 
-Bad weather significantly increases the chance of a car accident. Conditions such as fog, rain, sleet, snow, and ice not only hamper visibility but it can also affect the performance of your vehicle. But this wasn't the case regarding the Uk road accidents data. Majority of the accidents occured on a Good weather condition.
+- Bad weather significantly increases the chance of a car accident. Conditions such as fog, rain, sleet, snow, and ice not only hamper visibility but it can also affect the performance of your vehicle. But this wasn't the case regarding the Uk road accidents data. Majority of the accidents occured on a Good weather condition.
 
 
 - Light conditions are known to affect the number of vehicle accidents and fatalities but the relationship between light conditions and accident severity is not fully understood as more accidents occured during the day and most were slight
