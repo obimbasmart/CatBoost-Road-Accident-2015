@@ -1,8 +1,6 @@
 # CatBoost-Road-Accident-2015
 A data science collaborative project on Road accidents in UK, 2015  - CatBoost Team
 
-![alt text](https://github.com/Smartify-Tech/CatBoost-Road-Accident-2015/blob/main/images/road_accident_image.jpg?raw=true)
-
 ## Problem statement: 
 Accidents have a holistic impact in every society we find ourselves today, hence the need of for continuous ‎improvement of every system that contributes to accidents in our society today.‎
 In this study we aim to focus our research or study on the UK. We got the UK_Accident_2015 Data for this ‎purpose. ‎
